@@ -1,4 +1,4 @@
-# DroidKaigi Visual Identety
+# DroidKaigi Visual Identity
 
 本リポジトリ（visual-identity）にはDroidKaigi公式ロゴ、ガイドラインが含まれています。
 
